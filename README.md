@@ -1,10 +1,10 @@
 <p align='center'>
   <img src="https://i.imgur.com/5VYs1m2.png" alt="Logo"> <br>
-  <a href="https://github.com/Tuhinshubhra/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-1.1.3-brightgreen.svg?style=style=flat-square" alt="version"></a>
-  <a href="https://github.com/Tuhinshubhra/CMSeeK/"><img src="https://img.shields.io/badge/python-3-orange.svg?style=style=flat-square" alt="Python Version"></a>
-  <a href="https://github.com/Tuhinshubhra/CMSeeK/stargazers"><img src="https://img.shields.io/github/stars/Tuhinshubhra/CMSeeK.svg" alt="GitHub stars" /></a>
-  <a href="https://github.com/Tuhinshubhra/CMSeeK/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Tuhinshubhra/CMSeeK.svg" alt="GitHub license" /></a>
-  <a href="https://twitter.com/r3dhax0r"><img src="https://img.shields.io/twitter/url/https/github.com/Tuhinshubhra/CMSeeK.svg?style=social" alt="Twitter" /></a>
+  <a href="https://github.com/trhacknon/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-1.1.3-brightgreen.svg?style=style=flat-square" alt="version"></a>
+  <a href="https://github.com/trhacknon/CMSeeK/"><img src="https://img.shields.io/badge/python-3-orange.svg?style=style=flat-square" alt="Python Version"></a>
+  <a href="https://github.com/trhacknon/CMSeeK/stargazers"><img src="https://img.shields.io/github/stars/trhacknon/CMSeeK.svg" alt="GitHub stars" /></a>
+  <a href="https://github.com/trhacknon/CMSeeK/blob/master/LICENSE"><img src="https://img.shields.io/github/license/trhacknon/CMSeeK.svg" alt="GitHub license" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/url/https/github.com/trhacknon/CMSeeK.svg?style=social" alt="Twitter" /></a>
 </p>
 
 ## What is a CMS?
@@ -21,7 +21,7 @@
 - Version 1.0.7 [07-08-2018]
 ...
 ```
-[Changelog File](https://github.com/Tuhinshubhra/CMSeeK/blob/master/CHANGELOG)
+[Changelog File](https://github.com/trhacknon/CMSeeK/blob/master/CHANGELOG)
 
 ## Functions Of CMSeek:
 
@@ -53,7 +53,7 @@ CMSeeK is built using **python3**, you will need python3 to run this tool and is
 
 It is fairly easy to use CMSeeK, just make sure you have python3 and git (just for cloning the repo) installed and use the following commands:
 
-- git clone `https://github.com/Tuhinshubhra/CMSeeK`
+- git clone `https://github.com/trhacknon/CMSeeK`
 - cd CMSeeK
 - pip/pip3 install -r requirements.txt
 
@@ -203,6 +203,6 @@ Please make sure you have the following info attached when opening a new issue:
 
 CMSeeK is licensed under [GNU General Public License v3.0](https://github.com/Tuhinshubhra/CMSeeK/blob/master/LICENSE)
 
-## Follow Me @r3dhax0r:
+## Follow Me @trhacknon:
 
-[Twitter](https://twitter.com/r3dhax0r)   
+[Twitter](https://twitter.com/)   
