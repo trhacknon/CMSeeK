@@ -14,9 +14,10 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'cmseek'
 DESCRIPTION = 'CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.'
-URL = 'https://github.com/Tuhinshubhra/CMSeeK'
-EMAIL = 'contactr3d@protonmail.com'
+URL = 'https://github.com/trhacknon/CMSeeK'
+EMAIL = 'bbatf2590@protonmail.com'
 AUTHOR = 'Tuhin Shubhra'
+MODDER = 'Trhacknon' 
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '1.1.3'
 
